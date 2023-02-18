@@ -1,0 +1,41 @@
+{
+    "Properties": [
+      { "id": 1,
+        "image": "https://cdn.staticmb.com/property/microsite/mb-banners/00769469/projectshowcase-img.jpg",
+        "type": "Flat",
+        "address":"Kharadi,Pune",
+        "description": "Italian Marble Laminated wooden flooring in master bedroom Anti-skid ceramic tiles in utility area and terrace Vitrified or ceramic tiles in washrooms WINDOWS AND DOORS Laminated doors for main entrance bedrooms and bathrooms Powder coated aluminum windows with mosquito net, SS terrace railing French windows",
+        "url1":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g2.jpg",
+        "url2":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g3.jpg",
+        "url3":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g7.jpg"
+    },
+    { "id": 2,
+        "image": "https://cdn.staticmb.com/property/microsite/mb-banners/00769469/projectshowcase-img.jpg",
+        "type": "Flat",
+        "address":"Kharadi,Pune",
+        "description": "Italian Marble Laminated wooden flooring in master bedroom Anti-skid ceramic tiles in utility area and terrace Vitrified or ceramic tiles in washrooms WINDOWS AND DOORS Laminated doors for main entrance bedrooms and bathrooms Powder coated aluminum windows with mosquito net, SS terrace railing French windows",
+        "url1":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g2.jpg",
+        "url2":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g3.jpg",
+        "url3":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g7.jpg"
+    },
+    { "id": 3,
+        "image": "https://cdn.staticmb.com/property/microsite/mb-banners/00769469/projectshowcase-img.jpg",
+        "type": "Flat",
+        "address":"Kharadi,Pune",
+        "description": "Italian Marble Laminated wooden flooring in master bedroom Anti-skid ceramic tiles in utility area and terrace Vitrified or ceramic tiles in washrooms WINDOWS AND DOORS Laminated doors for main entrance bedrooms and bathrooms Powder coated aluminum windows with mosquito net, SS terrace railing French windows",
+        "url1":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g2.jpg",
+        "url2":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g3.jpg",
+        "url3":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g7.jpg"
+    },
+    { "id": 4,
+        "image": "https://cdn.staticmb.com/property/microsite/mb-banners/00769469/projectshowcase-img.jpg",
+        "type": "Flat",
+        "address":"Kharadi,Pune",
+        "description": "Italian Marble Laminated wooden flooring in master bedroom Anti-skid ceramic tiles in utility area and terrace Vitrified or ceramic tiles in washrooms WINDOWS AND DOORS Laminated doors for main entrance bedrooms and bathrooms Powder coated aluminum windows with mosquito net, SS terrace railing French windows",
+        "url1":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g2.jpg",
+        "url2":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g3.jpg",
+        "url3":"https://property.magicbricks.com/mb-microsite/1/vertillas-multibhk-pune/images/gallery/g7.jpg"
+    }
+    ]
+   
+  }
