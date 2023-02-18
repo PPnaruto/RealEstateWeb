@@ -1,0 +1,17 @@
+.navbar{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: azure;
+}
+.dashboard_name{
+    margin-right: -200px;
+}
+.navbar>button{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    font-size: 15px;
+}

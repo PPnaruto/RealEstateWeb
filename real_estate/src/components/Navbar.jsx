@@ -1,14 +1,15 @@
-import React from 'react'
+import React from 'react';
+import style from "../Styles/navbar.module.css";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className={style.navbar}>
         <h1>ProperyRental.com</h1>
         <div>
             <input type="text" />
             <button>Search</button>
         </div>
-        <h2>User DashBoard</h2>
+        <h2 className={style.dashboard_name}>User DashBoard</h2>
         <button>Login/Sign-Up</button>     
     </div>
   )

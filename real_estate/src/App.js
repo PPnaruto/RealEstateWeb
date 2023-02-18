@@ -1,13 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import Request from './components/request';
+
 import Navbar from './components/Navbar';
+import style from './Styles/app.module.css';
+import AllRoutes from './AllRoutes/Routes';
 
 function App() {
   return (
-    <div className="App">
+    <div className={style.App}>
       <Navbar/>
-      <Request/>
+      <AllRoutes/>
     </div>
   );
 }
